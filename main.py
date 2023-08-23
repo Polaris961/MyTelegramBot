@@ -1,6 +1,6 @@
 import asyncio
 from aiogram import Bot, Dispatcher, types
-from aiogram. import Command
+from aiogram.filters import Command
 from config import settings
 
 
